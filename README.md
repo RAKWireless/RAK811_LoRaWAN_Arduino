@@ -17,7 +17,7 @@ Check the other lib below install or not?
 ![Check Cores](https://i.imgur.com/faDIbvj.png)
 Then install the BSP for STM32.
 If install completed as following:
-
+![install board](https://i.imgur.com/qF42t5X.png)
 5. Download the LoRaWAN library from:  
 [https://github.com/mcci-catena/arduino-lmic#selecting-the-lorawan-region-configuration](https://github.com/mcci-catena/arduino-lmic#selecting-the-lorawan-region-configuration)  
 Add it to Arduino IDE:  
