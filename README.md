@@ -1,4 +1,7 @@
 # RAK811_LoRaWAN_Arduino
+
+Firstly, thank you very much to @sabas1080 for his contribution on RAK811 LoRa Tracker board + Arduino.
+
 1. What is Arduino?
 If you know little about Arduino, please have a look below:  
 [https://www.arduino.cc/](https://www.arduino.cc/)
